@@ -5,7 +5,7 @@ terraform {
     organization = "pixelusive"
 
     workspaces {
-      name = "fem-eci-workspace"
+      name = "fem-eci-tfe"
     }
   }
 }
