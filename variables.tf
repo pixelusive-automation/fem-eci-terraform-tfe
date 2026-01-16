@@ -4,6 +4,6 @@ variable "organization_name" {
 }
 
 variable "github_app_installation_id" {
-  default = "ghain-2fboxvEjqfc1DY3o"
-  type    = string
+  default = 104596172
+  type    = number
 }
